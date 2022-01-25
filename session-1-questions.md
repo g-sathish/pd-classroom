@@ -11,3 +11,5 @@ I've planned to use Github to manage my students assignments.
 - Collaboration
 - Github Pages / Webpages
 - Managing Assignments
+
+4. Did you've used autograding feature in your student assignments?
